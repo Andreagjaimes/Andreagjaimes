@@ -1,4 +1,4 @@
- ![Banner] <https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg>
+ ![Banner] <img src="https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg" alt= "coding"  width="400" >
 - I’m @Andreagjaimes
 - 👀 I’m interested in music, aniimals and more 
 - 🌱 I’m currently learning ...
