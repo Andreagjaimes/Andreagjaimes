@@ -1,4 +1,4 @@
- ![MasterHead] <https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg>
+ ![Banner] <https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg>
 - I’m @Andreagjaimes
 - 👀 I’m interested in music, aniimals and more 
 - 🌱 I’m currently learning ...
