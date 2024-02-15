@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on **el buho 9**
 
-
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" align="left" alt= "coding"  width="500" >
   
 
 <h3 align="left">Connect with me:</h3>
