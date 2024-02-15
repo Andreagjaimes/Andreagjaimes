@@ -3,15 +3,10 @@
 - I’m @Andreagjaimes
 - 👀 I’m interested in music, aniimals and more
 - 🌱 I’m currently learning ...
-
 - 💞️ I’m looking to collaborate on ...
-  
 - 📫 How to reach me **andreajaimes127@gmail.com**
-
-- 😄 Pronouns: ...
-- 
+- 😄 Pronouns: she/her/they/them
 - ⚡ Fun fact: ...
-- 
 - 🔭 I’m currently working on **el buho 9**
 
 
