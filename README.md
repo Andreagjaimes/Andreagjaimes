@@ -1,8 +1,8 @@
   <img src="https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg" align="center" alt= "coding"  width="900" > 
   
 - I’m @Andreagjaimes
-- 👀 I’m interested in music, aniimals and more
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in music, animals and more
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **andreajaimes127@gmail.com**
 - 😄 Pronouns: she/her/they/them
