@@ -7,7 +7,7 @@
 - 📫 How to reach me **andreajaimes127@gmail.com**
 - 😄 Pronouns: she/her/they/them
 - ⚡ Fun fact: ...
-- 🔭 I’m currently working on **el buho 9**
+- 🔭 I’m currently working on **institutional program**
 
 <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" align="rigth" alt= "coding"  width="500" >
   
